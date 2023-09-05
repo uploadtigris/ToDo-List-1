@@ -28,7 +28,7 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 7. Run the following command to install project dependencies:
 
-```$ npm i
+<code>$ npm i</code>
 
 
 ## Understanding Dependencies
@@ -39,7 +39,7 @@ In the context of a React application, dependencies are external packages or lib
 
 To start your application, use the following command:
 
-```$ npm run dev
+<code>$ npm run dev</code>
 
 This command will start your React application and make it accessible in your browser.
 
