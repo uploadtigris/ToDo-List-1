@@ -17,7 +17,7 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 3. Run the following command to create a new Vite project:
 
-$ npm create vite@latest
+```$ npm create vite@latest
 
 
 4. Enter `.` to add it to the current directory.
@@ -28,7 +28,7 @@ $ npm create vite@latest
 
 7. Run the following command to install project dependencies:
 
-$ npm i
+```$ npm i
 
 
 ## Understanding Dependencies
@@ -39,7 +39,7 @@ In the context of a React application, dependencies are external packages or lib
 
 To start your application, use the following command:
 
-$ npm run dev
+```$ npm run dev
 
 This command will start your React application and make it accessible in your browser.
 
