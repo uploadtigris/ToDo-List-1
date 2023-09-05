@@ -17,7 +17,7 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) and [npm](ht
 
 3. Run the following command to create a new Vite project:
 
-```$ npm create vite@latest
+<code>$ npm create vite@latest</code>
 
 
 4. Enter `.` to add it to the current directory.
